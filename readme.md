@@ -9,3 +9,4 @@ Je suis le développeur de mes projets visibles sur mon github.
 Je dessine et je note :
  jeu ou l'on doit dessiner et noter d'autres dessins de l'ordinateur.
 
+Bullesjs : librairie js client-side permettant d'avoir différentes particules / bulles en fond d'écran sur votre site internet.
