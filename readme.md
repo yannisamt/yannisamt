@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/yannisamt/yannisamt/main/logo.jpg" alt="" />
 # Bienvenue !
 
-Je suis Yannis AMATHIEU, Un développeur français HTML, Javascript, NodeJS, Python et un peu de java.
+Je suis Yannis, Un développeur français HTML, Javascript, NodeJS, Python et un peu de java.
 Je suis le développeur de mes projets visibles sur mon github.
 <br>
 **Mes projets :**
